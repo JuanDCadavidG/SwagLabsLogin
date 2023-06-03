@@ -1,0 +1,19 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "QA Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "QA",
+    "Automation",
+    "Cypress"
+  ],
+  "author": "Wilson Medina",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
