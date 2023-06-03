@@ -16,7 +16,7 @@ Clone the repo
  ```
     npm run test
  ````
- Automated test was carried out with cypress focused on the functionality of the login page and access to the different urls of the sut, verifying that if the user is not logged in it does not allow access to the different endpoints
+ Automated test was carried out with cypress focused on the functionality of the login page and access to the different urls of the sut, verifying that if the user is not logged in it does not allow access to the different endpoints. The code was made under the Fixture design pattern.
  
  TCs:
  
